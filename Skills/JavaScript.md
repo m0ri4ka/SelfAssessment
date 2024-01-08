@@ -13,11 +13,11 @@
   - ...rest
   - typeof
   - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
+  - generator: 👂 heard
+  - iterator: 👂 heard
+  - async generator: 👂 heard
+  - async iterator: 👂 heard
+  - chaining: 👂 heard
   - optional chaining
   - IIFE
   - global
@@ -36,7 +36,7 @@
   - template literal
   - strict mode
   - delete: 👂 heard
-  - in
+  - in: 👂 heard
   - super
   - Symbol: 👂 heard
   - Reflect
