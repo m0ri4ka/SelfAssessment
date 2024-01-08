@@ -1,28 +1,28 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
+  - value : 🙋 explained
+  - identifier: 🙋 explained
+  - variable: 🙋 explained
+  - constant: 🙋 explained
   - scalar
   - literal
   - expression
   - heap
-  - function
+  - function: 🙋 explained
   - procedure
   - method
-  - class
+  - class: 🙋 explained
   - prototype
   - event
   - type
   - primitive types
   - reference types
-  - flag
+  - flag: 🙋 explained
   - lexical scope
-  - code block
+  - code block: 🙋 explained
   - conditions
-  - loops
+  - loops: 🙋 explained
   - assignment
   - regular expression
   - interface
@@ -31,8 +31,8 @@
   - call stack
 - Functions
   - signature
-  - argument
-  - parameter
+  - argument: 🙋 explained
+  - parameter: 🙋 explained
   - pure function
   - lambda expression
   - side effects
@@ -40,7 +40,7 @@
   - partial application
   - curry
   - higher order
-  - recursion
+  - recursion: 🙋 explained
   - callback
   - listener
   - compose
@@ -53,13 +53,13 @@
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
+  - array: 🙋 explained
+  - structure: 🙋 explained
   - record
-  - enum
+  - enum: 🙋 explained
   - instance
-  - object
-  - class
+  - object: 🙋 explained
+  - class: 🙋 explained
   - collection
   - set
   - hash table
@@ -68,10 +68,10 @@
   - unrolled list
   - circular list
   - queue
-  - stack
+  - stack: 🙋 explained
   - deque
-  - tree
-  - graph
+  - tree: 👂 heard
+  - graph: 👂 heard
   - iterator
   - mutable state
   - immutable state
@@ -85,22 +85,22 @@
   - debugger
   - garbage collection
   - refactoring
-  - code review
+  - code review: 🙋 explained
   - antipatterns
   - paradigm
-  - algorithm
+  - algorithm:🎓 known
   - magic numbers
   - hardcode
   - complexity
   - decomposition
-  - spaghetti
+  - spaghetti: 🙋 explained
   - silver bullet
   - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
+  - dead code: 🙋 explained
+  - unreachable code : 🙋 explained
+  - duplicate code: 🙋 explained
   - exception
   - return early
   - unittest
-  - git
-  - github
+  - git: 🙋 explained
+  - github: 🙋 explained
