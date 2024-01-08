@@ -1,28 +1,28 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value : 🙋 explained
-  - identifier: 🙋 explained
-  - variable: 🙋 explained
-  - constant: 🙋 explained
+  - value : 🖐️ used
+  - identifier: 🖐️ used
+  - variable: 🖐️ used
+  - constant: 🖐️ used
   - scalar
   - literal
   - expression
   - heap
-  - function: 🙋 explained
+  - function: 🖐️ used
   - procedure
   - method
-  - class: 🙋 explained
+  - class: 🖐️ used
   - prototype
   - event
   - type
   - primitive types
   - reference types
-  - flag: 🙋 explained
+  - flag: 🖐️ used
   - lexical scope
-  - code block: 🙋 explained
+  - code block: 🖐️ used
   - conditions
-  - loops: 🙋 explained
+  - loops: 🖐️ used
   - assignment
   - regular expression
   - interface
@@ -31,8 +31,8 @@
   - call stack
 - Functions
   - signature
-  - argument: 🙋 explained
-  - parameter: 🙋 explained
+  - argument: 🖐️ used
+  - parameter: 🖐️ used
   - pure function
   - lambda expression
   - side effects
@@ -40,7 +40,7 @@
   - partial application
   - curry
   - higher order
-  - recursion: 🙋 explained
+  - recursion: 🖐️ used
   - callback
   - listener
   - compose
@@ -53,13 +53,13 @@
   - generator
   - coroutine
 - Data structures
-  - array: 🙋 explained
-  - structure: 🙋 explained
+  - array: 🖐️ used
+  - structure
   - record
-  - enum: 🙋 explained
+  - enum: 👂 heard
   - instance
-  - object: 🙋 explained
-  - class: 🙋 explained
+  - object: 🖐️ used
+  - class: 🖐️ used
   - collection
   - set
   - hash table
@@ -68,10 +68,10 @@
   - unrolled list
   - circular list
   - queue
-  - stack: 🙋 explained
+  - stack
   - deque
-  - tree: 👂 heard
-  - graph: 👂 heard
+  - tree
+  - graph
   - iterator
   - mutable state
   - immutable state
@@ -85,22 +85,22 @@
   - debugger
   - garbage collection
   - refactoring
-  - code review: 🙋 explained
+  - code review: 👂 heard
   - antipatterns
   - paradigm
-  - algorithm:🎓 known
+  - algorithm: 👂 heard
   - magic numbers
   - hardcode
   - complexity
   - decomposition
-  - spaghetti: 🙋 explained
+  - spaghetti: 👂 heard
   - silver bullet
   - not invented here
-  - dead code: 🙋 explained
-  - unreachable code : 🙋 explained
-  - duplicate code: 🙋 explained
+  - dead code: 👂 heard
+  - unreachable code 
+  - duplicate code
   - exception
   - return early
   - unittest
-  - git: 🙋 explained
-  - github: 🙋 explained
+  - git: 👂 heard
+  - github: 👂 heard
