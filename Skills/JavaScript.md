@@ -1,10 +1,10 @@
 ## JavaScript
 
 - Language
-  - Object
+  - Object: 🎓 known
   - this
-  - arrow function
-  - async function
+  - arrow function: 🎓 known
+  - async function: 🎓 known
   - call
   - bind
   - apply
@@ -30,7 +30,7 @@
   - logical operators
   - bitwise operators
   - ternary operator
-  - void
+  - void: 🎓 known
   - yield
   - await
   - template literal
@@ -41,39 +41,39 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
+  - if: 🎓 known
+  - while: 🎓 known
+  - do..while: 🎓 known
+  - for: 🎓 known
+  - for..in: 🎓 known
   - for..of
   - for await
   - throw
-  - break
+  - break: 🎓 known
   - continue
   - import
   - export
   - label
   - try..catch
-  - switch
-  - class
+  - switch: 🎓 known
+  - class: 🎓 known
   - new Error
   - with
 - Functions
   - function declaration
   - function expression
-  - return
+  - return: 🎓 known
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array: 🎓 known
   - mixin
   - extend
   - typed arrays
   - Map
   - Set
-  - undefined
-  - null
+  - undefined: 🎓 known
+  - null: 🎓 known
   - Proxy
   - weak collections
   - timers
@@ -83,7 +83,7 @@
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js: 🎓 known
   - npm
   - prettier
   - MDN

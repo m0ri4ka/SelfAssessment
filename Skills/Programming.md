@@ -1,28 +1,28 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
+  - value : 🖐️ used
+  - identifier: 🖐️ used
+  - variable: 🖐️ used
+  - constant: 🖐️ used
   - scalar
   - literal
   - expression
   - heap
-  - function
+  - function: 🖐️ used
   - procedure
   - method
-  - class
+  - class: 🖐️ used
   - prototype
   - event
   - type
   - primitive types
   - reference types
-  - flag
+  - flag: 🖐️ used
   - lexical scope
-  - code block
+  - code block: 🖐️ used
   - conditions
-  - loops
+  - loops: 🖐️ used
   - assignment
   - regular expression
   - interface
@@ -31,8 +31,8 @@
   - call stack
 - Functions
   - signature
-  - argument
-  - parameter
+  - argument: 🖐️ used
+  - parameter: 🖐️ used
   - pure function
   - lambda expression
   - side effects
@@ -40,7 +40,7 @@
   - partial application
   - curry
   - higher order
-  - recursion
+  - recursion: 🖐️ used
   - callback
   - listener
   - compose
@@ -53,13 +53,13 @@
   - generator
   - coroutine
 - Data structures
-  - array
+  - array: 🖐️ used
   - structure
   - record
-  - enum
+  - enum: 👂 heard
   - instance
-  - object
-  - class
+  - object: 🖐️ used
+  - class: 🖐️ used
   - collection
   - set
   - hash table
@@ -85,22 +85,22 @@
   - debugger
   - garbage collection
   - refactoring
-  - code review
+  - code review: 👂 heard
   - antipatterns
   - paradigm
-  - algorithm
+  - algorithm: 👂 heard
   - magic numbers
   - hardcode
   - complexity
   - decomposition
-  - spaghetti
+  - spaghetti: 👂 heard
   - silver bullet
   - not invented here
-  - dead code
-  - unreachable code
+  - dead code: 👂 heard
+  - unreachable code 
   - duplicate code
   - exception
   - return early
   - unittest
-  - git
-  - github
+  - git: 👂 heard
+  - github: 👂 heard
