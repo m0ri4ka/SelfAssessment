@@ -1,10 +1,10 @@
 ## JavaScript
 
 - Language
-  - Object
+  - Object: 🎓 known
   - this
-  - arrow function
-  - async function
+  - arrow function: 🎓 known
+  - async function: 🎓 known
   - call
   - bind
   - apply
@@ -22,58 +22,58 @@
   - IIFE
   - global
   - globalThis
-  - window
+  - window: 👂 heard
   - getters and setters
   - __proto__
   - prototype
   - equality operators
   - logical operators
   - bitwise operators
-  - ternary operator
-  - void
+  - ternary operator: 👂 heard
+  - void: 🎓 known
   - yield
-  - await
+  - await: 👂 heard
   - template literal
   - strict mode
-  - delete
+  - delete: 🎓 known
   - in
   - super
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
+  - if: 🎓 known
+  - while: 🎓 known
+  - do..while: 🎓 known
+  - for: 🎓 known
+  - for..in: 🎓 known
   - for..of
-  - for await
+  - for await: 🎓 known
   - throw
-  - break
-  - continue
+  - break: 🎓 known
+  - continue: 🎓 known
   - import
   - export
   - label
   - try..catch
-  - switch
-  - class
+  - switch: 🎓 known
+  - class: 🎓 known
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
+  - function declaration🎓 known
+  - function expression🎓 known
+  - return🎓 known
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array: 🎓 known
   - mixin
   - extend
   - typed arrays
   - Map
   - Set
-  - undefined
-  - null
+  - undefined: 🎓 known
+  - null: 🎓 known
   - Proxy
   - weak collections
   - timers
@@ -83,7 +83,7 @@
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js: 🎓 known
   - npm
   - prettier
   - MDN
