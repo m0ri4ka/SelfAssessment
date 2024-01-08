@@ -1,47 +1,47 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value : 🖐️ used
-  - identifier: 🖐️ used
-  - variable: 🖐️ used
-  - constant: 🖐️ used
-  - scalar
+  - value : 🙋 explained
+  - identifier: 🙋 explained
+  - variable: 🙋 explained
+  - constant: 🙋 explained
+  - scalar: 🙋 explained
   - literal
-  - expression
+  - expression: 🙋 explained
   - heap
-  - function: 🖐️ used
-  - procedure
+  - function: 🙋 explained
+  - procedure: 👂 heard
   - method
-  - class: 🖐️ used
-  - prototype
+  - class: 🙋 explained
+  - prototype: 👂 heard
   - event
-  - type
-  - primitive types
+  - type: 🙋 explained
+  - primitive types: 👂 heard
   - reference types
-  - flag: 🖐️ used
+  - flag: 🙋 explained
   - lexical scope
-  - code block: 🖐️ used
+  - code block: 🙋 explained
   - conditions
-  - loops: 🖐️ used
-  - assignment
+  - loops: 🙋 explained
+  - assignment: 📢 talked
   - regular expression
-  - interface
+  - interface: 📢 talked
   - contract
   - module
   - call stack
 - Functions
   - signature
-  - argument: 🖐️ used
-  - parameter: 🖐️ used
+  - argument: 🙋 explained
+  - parameter: 🙋 explained
   - pure function
-  - lambda expression
+  - lambda expression: 👂 heard
   - side effects
   - closure
   - partial application
   - curry
   - higher order
-  - recursion: 🖐️ used
-  - callback
+  - recursion: 🙋 explained
+  - callback: 🙋 explained
   - listener
   - compose
   - pipe
@@ -53,54 +53,54 @@
   - generator
   - coroutine
 - Data structures
-  - array: 🖐️ used
-  - structure
+  - array: 🙋 explained
+  - structure: 🖐️ used
   - record
-  - enum: 👂 heard
+  - enum: 🙋 explained
   - instance
-  - object: 🖐️ used
-  - class: 🖐️ used
+  - object: 🙋 explained
+  - class: 🙋 explained
   - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
+  - set: 👂 heard
+  - hash table: 👂 heard
+  - linked list: 👂 heard
+  - doubly list: 👂 heard
+  - unrolled list: 👂 heard
+  - circular list: 👂 heard
+  - queue: 👂 heard
+  - stack: 🖐️ used
   - deque
-  - tree
-  - graph
-  - iterator
+  - tree: 👂 heard
+  - graph: 👂 heard
+  - iterator: 👂 heard
   - mutable state
   - immutable state
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler: 📢 talked
   - transpiler
   - linter
-  - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review: 👂 heard
-  - antipatterns
-  - paradigm
-  - algorithm: 👂 heard
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti: 👂 heard
-  - silver bullet
+  - polyfill: 🙋 explained
+  - debugger: 🙋 explained
+  - garbage collection: 🙋 explained
+  - refactoring: 🙋 explained
+  - code review: 📢 talked
+  - antipatterns: 🙋 explained
+  - paradigm: 🙋 explained
+  - algorithm: 🙋 explained
+  - magic numbers: 🙋 explained
+  - hardcode: 📢 talked
+  - complexity: 🙋 explained
+  - decomposition: 🙋 explained
+  - spaghetti: 📢 talked
+  - silver bullet: 🙋 explained
   - not invented here
-  - dead code: 👂 heard
-  - unreachable code 
-  - duplicate code
+  - dead code: 📢 talked
+  - unreachable code : 📢 talked
+  - duplicate code: 🙋 explained
   - exception
-  - return early
-  - unittest
-  - git: 👂 heard
-  - github: 👂 heard
+  - return early: 🙋 explained
+  - unittest: 🙋 explained
+  - git: 🙋 explained
+  - github: 🙋 explained
