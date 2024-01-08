@@ -22,20 +22,20 @@
   - IIFE
   - global
   - globalThis
-  - window: 👂 heard
+  - window
   - getters and setters
   - __proto__
   - prototype
   - equality operators
   - logical operators
   - bitwise operators
-  - ternary operator: 👂 heard
+  - ternary operator
   - void: 🎓 known
   - yield
-  - await: 👂 heard
+  - await
   - template literal
   - strict mode
-  - delete: 🎓 known
+  - delete
   - in
   - super
   - Symbol
@@ -47,10 +47,10 @@
   - for: 🎓 known
   - for..in: 🎓 known
   - for..of
-  - for await: 🎓 known
+  - for await
   - throw
   - break: 🎓 known
-  - continue: 🎓 known
+  - continue
   - import
   - export
   - label
@@ -60,9 +60,9 @@
   - new Error
   - with
 - Functions
-  - function declaration🎓 known
-  - function expression🎓 known
-  - return🎓 known
+  - function declaration
+  - function expression
+  - return: 🎓 known
   - default parameters
   - functional object
 - Data structures
