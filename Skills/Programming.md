@@ -1,35 +1,35 @@
 ## Programming fundamental concepts
 
 - Concepts
-    - Model
-    - Modeling
-    - Subject domain
+    - Model u 
+    - Modeling u
+    - Subject domain u
     - Algorithm: 🙋 explained
-    - Syntax
-    - Semantics
-    - Abstraction
+    - Syntax e
+    - Semantics e
+    - Abstraction e
     - Paradigm: 🙋 explained
-    - Programm
-    - Programming paradigm
-    - Programming language
+    - Programm e
+    - Programming paradigm e
+    - Programming language t
     - Contract
-    - Module
-    - Library
+    - Module e
+    - Library e
     - Package
     - Component
-    - Framework
+    - Framework e
     - Platform
-    - Source code
-    - Object code
-    - Machine code
+    - Source code e
+    - Object code e
+    - Machine code e
     - Microcode
-    - Software engineering
+    - Software engineering t
     - Decomposition: 🙋 explained
     - Control flow
     - Data flow
     - Code reuse
     - Defensive programming
-    - Don't repeat yourself (DRY)
+    - Don't repeat yourself (DRY) e
     - KISS principle
 - Syntax and concepts
     - Value: 🙋 explained
@@ -37,55 +37,55 @@
     - Variable: 🙋 explained
     - Constant: 🙋 explained
     - Scalar: 🙋 explained
-    - Literal
+    - Literal u
     - Expression: 🙋 explained
-    - Heap
+    - Heap e
     - Function: 🙋 explained
-    - Procedure: 👂 heard
-    - Method
+    - Procedure u
+    - Method e
     - Class: 🙋 explained
     - Prototype: 👂 heard
-    - Event
+    - Event e
     - Type: 🙋 explained
     - Flag: 🙋 explained
-    - Lexical scope
+    - Lexical scope k
     - Code block: 🙋 explained
-    - Conditions
+    - Conditions u
     - Loops: 🙋 explained
     - Assignment: 📢 talked
     - Regular expression
     - Interface: 📢 talked
-    - Namespaces
+    - Namespaces u
     - Call stack
-    - Naming conventions
-    - Coding conventions
-    - Camel case
-    - Snake case
-    - Kebab case
-    - Trailing commas
+    - Naming conventions t
+    - Coding conventions t
+    - Camel case t
+    - Snake case t
+    - Kebab case t
+    - Trailing commas t
     - Return early: 🙋 explained
     - Fail-fast
 - Types
-    - Primitive types: 👂 heard
-    - Reference types
-    - Type systems
-    - Strong typing
-    - Weak typing
-    - Duck typing
-    - Static typing
-    - Dynamic typing
-    - Nominal typing
-    - Structural typing
-    - Explicit typing
-    - Type inference
-    - Covariance
-    - Contravariance
+    - Primitive types k
+    - Reference types k
+    - Type systems k
+    - Strong typing k
+    - Weak typing k
+    - Duck typing k
+    - Static typing k
+    - Dynamic typing k
+    - Nominal typing k
+    - Structural typing k
+    - Explicit typing k
+    - Type inference k
+    - Covariance k
+    - Contravariance k
 - Functions
-    - Signature
+    - Signature u
     - Argument: 🙋 explained
     - Parameter: 🙋 explained
     - Pure function
-    - Lambda expression: 👂 heard
+    - Lambda expression u
     - Side effects
     - Closure
     - Partial application
@@ -98,49 +98,49 @@
     - Composition
     - Pipe
     - Memoize
-    - Wrapper
-    - Functor
-    - Monad
-    - Monoid
-    - Generator
+    - Wrapper u
+    - Functor u
+    - Monad k
+    - Monoid k
+    - Generator 
     - Coroutine
 - Data structures
     - Array: 🙋 explained
-    - Structure: 🖐️ used
+    - Structure e
     - Record
     - Enum: 🙋 explained
     - Instance
     - Object: 🙋 explained
     - Collection
-    - Set: 👂 heard
-    - Hash table: 👂 heard
-    - Linked list: 👂 heard
-    - Doubly list: 👂 heard
-    - Unrolled list: 👂 heard
-    - Circular list: 👂 heard
-    - Queue: 👂 heard
-    - Stack: 🖐️ used
-    - Deque
-    - Tree: 👂 heard
-    - Graph: 👂 heard
-    - Iterator: 👂 heard
-    - Mutable state
-    - Immutable state
-    - Serialization
-    - String parsing
-    - JSON
-    - JSON5
-    - YAML
+    - Set e
+    - Hash table k
+    - Linked list e
+    - Doubly list u
+    - Unrolled list u
+    - Circular list u
+    - Queue e
+    - Stack e
+    - Deque u
+    - Tree e
+    - Graph e
+    - Iterator e
+    - Mutable state k
+    - Immutable state k
+    - Serialization k
+    - String parsing k
+    - JSON k
+    - JSON5 k
+    - YAML k
 - Networking
-    - DNS
-    - CDN
-    - CORS
-    - IPv4
-    - IPv6
-    - NAT
-    - URL
-    - URN
-    - URI
+    - DNS e
+    - CDN k
+    - CORS k
+    - IPv4 e
+    - IPv6 e
+    - NAT e
+    - URL e
+    - URN k 
+    - URI k
 - Process and tools
     - Compiler: 📢 talked
     - Just-in-time compilation
@@ -148,92 +148,92 @@
     - Transpiler
     - Linter
     - Polyfill: 🙋 explained
-    - Interpreter
-    - Linker
-    - Dynamic linking
-    - Static linking
-    - Runtime
-    - Virtual machine
+    - Interpreter k
+    - Linker k
+    - Dynamic linking k
+    - Static linking k
+    - Runtime u
+    - Virtual machine k
     - Register-based VM
     - Stack-based VM
     - Containerization
     - Debugger: 🙋 explained
-    - Tracing
+    - Tracing k
     - Garbage collection: 🙋 explained
     - Refactoring: 🙋 explained
     - Code review: 📢 talked
-    - Exception
+    - Exception u
     - Unittesting: 🙋 explained
     - git: 🙋 explained
     - Github: 🙋 explained
-    - Docker
-    - Kubernetes
+    - Docker k
+    - Kubernetes k
     - GCC
     - LLVM
 - Antipatterns
     - Magic numbers: 🙋 explained
     - Hard code: 📢 talked
-    - Soft code
+    - Soft code e
     - Cryptic code
     - Improbability factor
     - Accidental complexity: 🙋 explained
-    - Action at a distance
+    - Action at a distance u
     - Spaghetti: 📢 talked
     - Silver bullet: 🙋 explained
-    - Not invented here
+    - Not invented here u
     - Dead code: 📢 talked
     - Unreachable code: 📢 talked
     - Duplicate code: 🙋 explained
-    - Premature optimization
-    - Micro-optimization
-    - Nested loops
-    - Long method/function/procedure
-    - Long inheritance
-    - Large class/file
-    - Too many parameters
-    - Pass-through parameters
-    - Accumulate and fire
-    - Use switch/case
-    - Temporary field
-    - Handle object as instances and hashes at the same time
-    - Use fields instead of arguments
-    - Data clump
-    - Feature envy
-    - Monkey patch
-    - Yo-yo problem
+    - Premature optimization k
+    - Micro-optimization k
+    - Nested loops u
+    - Long method/function/procedure h
+    - Long inheritance k
+    - Large class/file u
+    - Too many parameters u
+    - Pass-through parameters u
+    - Accumulate and fire h
+    - Use switch/case k
+    - Temporary field k
+    - Handle object as instances and hashes at the same time h
+    - Use fields instead of arguments k
+    - Data clump k
+    - Feature envy k
+    - Monkey patch k
+    - Yo-yo problem u
 - Runtimes and virtual machines
-    - Bytecode
-    - V8
-    - VJM
-    - CLR
-    - Mono
+    - Bytecode h
+    - V8 h
+    - VJM h
+    - CLR h
+    - Mono h
 - Operating systems
-    - Interrupts
-    - Drivers
-    - Kernel
-    - Ring
-    - Virtual memory
-    - File system
-    - Linux
-    - Unix
-    - BSD
-    - MacOS
-    - Windows
-    - Real-time OS
-    - Embedded OS
+    - Interrupts u
+    - Drivers u
+    - Kernel k
+    - Ring k
+    - Virtual memory e
+    - File system e
+    - Linux e
+    - Unix e
+    - BSD k
+    - MacOS k
+    - Windows e
+    - Real-time OS e
+    - Embedded OS e
 - Standards
-    - ASCII
+    - ASCII k
     - Escape sequence
     - RFC
     - IETF
     - IANA
     - IEEE
-    - Base64
+    - Base64 k
     - ECMA
     - ICANN
-    - ISO
-    - MIME
+    - ISO k
+    - MIME k
     - OWASP
-    - UTF-8
+    - UTF-8 k
     - W3C
     - ODMG
