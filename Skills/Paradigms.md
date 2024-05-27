@@ -1,25 +1,25 @@
 ## Multi-paradigm programming
 
 - Theory
-    - Procedural programming: 👂 heard
+    - Procedural programming u
     - Imperative programming
-    - Structured programming: 👂 heard
+    - Structured programming u
     - Non-structured programming
-    - Functional programming: 👂 heard
+    - Functional programming u
     - Prototype-based programming
-    - Object-oriented programming: 👂 heard
-    - Object-based programming: 👂 heard
-    - Generic programming
+    - Object-oriented programming u
+    - Object-based programming k
+    - Generic programming h
     - Concurrent computing
-    - Asynchronous programming: 👂 heard
-    - Parallel programming: 👂 heard
-    - Reactive programming: 👂 heard
+    - Asynchronous programming k
+    - Parallel programming k
+    - Reactive programming k
     - Functional-reactive (FRP)
-    - Automata-based programming
+    - Automata-based programming h
     - Domain-specific languages
-    - Multi-paradigm programming
+    - Multi-paradigm programming h
     - Metaprogramming
-    - Actor model
+    - Actor model h
     - Lambda calculus
     - Black box
     - Information hiding
@@ -27,11 +27,11 @@
     - Anemic domain model
     - Class composition
 - OOP basics
-    - Constructor
+    - Constructor h
     - Operator `new`: 👂 heard
-    - Static method
-    - Method
-    - Async method
+    - Static method h 
+    - Method h 
+    - Async method h
     - Getters, Setters
     - Public fields
     - Private fields
@@ -47,7 +47,7 @@
     - Instance
     - Introspection
     - Reflection
-    - The diamond problem
+    - The diamond problem h
 - GRASP
     - Information expert
     - Creator
