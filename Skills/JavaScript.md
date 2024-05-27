@@ -2,34 +2,34 @@
 
 - Language
     - `Object`: 🙋 explained
-    - `Function`
-    - `Boolean`
-    - `Number`
-    - `BigInt`: 👂 heard
-    - `String`
-    - `Symbol`: 👂 heard
-    - `Infinity`
-    - `NaN`
-    - `undefined`: 🙋 explained
-    - `null`: 🙋 explained
-    - `this`
+    - `Function` e
+    - `Boolean` e
+    - `Number` e
+    - `BigInt`: u
+    - `String` e
+    - `Symbol` e 
+    - `Infinity` u
+    - `NaN` u
+    - `undefined` e
+    - `null` e
+    - `this` u
     - `instanceof`
     - `...spread`
     - `...rest`
     - `typeof`
-    - Destructuring
-    - Generators: 👂 heard
-    - Iterators: 👂 heard
-    - Async generator: 👂 heard
-    - Async iterator: 👂 heard
-    - Chaining: 👂 heard
-    - Optional chaining
-    - IIFE
-    - Async IIFE
-    - `global`
-    - `globalThis`
-    - `window`: 👂 heard
-    - Getters and setters
+    - Destructuring h
+    - Generators u
+    - Iterators u
+    - Async generator u
+    - Async iterator u
+    - Chaining k
+    - Optional chaining h
+    - IIFE u
+    - Async IIFE u
+    - `global` u 
+    - `globalThis` u
+    - `window` u
+    - Getters and setters h
     - `__proto__`
     - `prototype`
     - Equality operators: 🙋 explained
@@ -38,50 +38,50 @@
     - Bitwise operators: 🙋 explained
     - Ternary operator: 👂 heard
     - `void`: 🙋 explained
-    - `yield`
+    - `yield` u
     - `await`: 🙋 explained
-    - Template literal
-    - Strict mode
-    - Hoisting
-    - `delete`: 👂 heard
-    - `in`: 👂 heard
-    - `super`
-    - `eval`
-    - `static`
-    - `Number.parseInt`
-    - `Number.parseFloat`
-    - Property descriptors
-    - Sealing properties
-    - Freezing properties
-    - Computed properties
-    - Instance class fields
-    - Static class fields
-    - Private class fields
-    - Private class methods
+    - Template literal h
+    - Strict mode u
+    - Hoisting h
+    - `delete` u
+    - `in` u
+    - `super` h
+    - `eval` h
+    - `static` h
+    - `Number.parseInt` h
+    - `Number.parseFloat` h
+    - Property descriptors h
+    - Sealing properties h
+    - Freezing properties h
+    - Computed properties h
+    - Instance class fields h
+    - Static class fields h
+    - Private class fields h
+    - Private class methods h
 - Statements
     - `if`: 🙋 explained
     - `while`: 🙋 explained
     - `do..while`: 🙋 explained
     - `for`: 🙋 explained
     - `for..in`: 🙋 explained
-    - `for..of`: 👂 heard
-    - `for await`: 👂 heard
+    - `for..of` u
+    - `for await` u
     - `throw`
     - `break`: 🙋 explained
-    - `continue`: 👂 heard
-    - `import`: 👂 heard
-    - `export`: 👂 heard
+    - `continue` u
+    - `import` u
+    - `export` u
     - `label`
     - `try..catch`
     - `switch`: 🙋 explained
     - `class`: 🙋 explained
     - `extends`
     - `with`
-    - `new`
+    - `new` u
 - Functions
-    - Arrow function: 🎓 known
-    - Async function: 🎓 known
-    - Function declaration
+    - Arrow function u
+    - Async function u
+    - Function declaration u
     - Function expression
     - Default parameters
     - Functional object
@@ -111,8 +111,8 @@
     - `FinalizationRegistry`
     - `Intl`
     - `Promise`
-    - `console`
-    - Timers
+    - `console` k
+    - Timers u
 - Infrastructure
     - V8
     - Node.js: 🙋 explained
