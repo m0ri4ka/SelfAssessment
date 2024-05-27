@@ -1,89 +1,122 @@
 ## JavaScript
 
 - Language
-  - Object: 🙋 explained
-  - this
-  - arrow function: 🎓 known
-  - async function: 🎓 known
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator: 👂 heard
-  - iterator: 👂 heard
-  - async generator: 👂 heard
-  - async iterator: 👂 heard
-  - chaining: 👂 heard
-  - optional chaining
-  - IIFE
-  - global
-  - globalThis
-  - window: 👂 heard
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators: 🙋 explained
-  - logical operators: 🙋 explained
-  - bitwise operators: 🙋 explained
-  - ternary operator: 👂 heard
-  - void: 🙋 explained
-  - yield
-  - await: 🙋 explained
-  - template literal
-  - strict mode
-  - delete: 👂 heard
-  - in: 👂 heard
-  - super
-  - Symbol: 👂 heard
-  - Reflect
+- `Object`: 🙋 explained
+- `Function`
+- `Boolean`
+- `Number`
+- `BigInt`: 👂 heard
+- `String`
+- `Symbol`: 👂 heard
+- `Infinity`
+- `NaN`
+- `undefined`: 🙋 explained
+- `null`: 🙋 explained
+- `this`
+- `instanceof`
+- `...spread`
+- `...rest`
+- `typeof`
+- Destructuring
+- Generators: 👂 heard
+- Iterators: 👂 heard
+- Async generator: 👂 heard
+- Async iterator: 👂 heard
+- Chaining: 👂 heard
+- Optional chaining
+- IIFE
+- Async IIFE
+- `global`
+- `globalThis`
+- `window`: 👂 heard
+- Getters and setters
+- `__proto__`
+- `prototype`
+- Equality operators: 🙋 explained
+- Logical operators: 🙋 explained
+- Logical Assignment
+- Bitwise operators: 🙋 explained
+- Ternary operator: 👂 heard
+- `void`: 🙋 explained
+- `yield`
+- `await`: 🙋 explained
+- Template literal
+- Strict mode
+- Hoisting
+- `delete`: 👂 heard
+- `in`: 👂 heard
+- `super`
+- `eval`
+- `static`
+- `Number.parseInt`
+- `Number.parseFloat`
+- Property descriptors
+- Sealing properties
+- Freezing properties
+- Computed properties
+- Instance class fields
+- Static class fields
+- Private class fields
+- Private class methods
 - Statements
-  - if: 🙋 explained
-  - while: 🙋 explained
-  - do..while: 🙋 explained
-  - for: 🙋 explained
-  - for..in: 🙋 explained
-  - for..of: 👂 heard
-  - for await: 👂 heard
-  - throw
-  - break: 🙋 explained
-  - continue: 👂 heard
-  - import: 👂 heard
-  - export: 👂 heard
-  - label
-  - try..catch
-  - switch: 🙋 explained
-  - class: 🙋 explained
-  - new Error
-  - with
+    - `if`: 🙋 explained
+    - `while`: 🙋 explained
+    - `do..while`: 🙋 explained
+    - `for`: 🙋 explained
+    - `for..in`: 🙋 explained
+    - `for..of`: 👂 heard
+    - `for await`: 👂 heard
+    - `throw`
+    - `break`: 🙋 explained
+    - `continue`: 👂 heard
+    - `import`: 👂 heard
+    - `export`: 👂 heard
+    - `label`
+    - `try..catch`
+    - `switch`: 🙋 explained
+    - `class`: 🙋 explained
+    - `extends`
+    - `with`
+    - `new`
 - Functions
-  - function declaration
-  - function expression
-  - return: 🙋 explained
-  - default parameters
-  - functional object
+    - Arrow function: 🎓 known
+    - Async function: 🎓 known
+    - Function declaration
+    - Function expression
+    - Default parameters
+    - Functional object
+    - `Function.prototype.call`
+    - `Function.prototype.bind`
+    - `Function.prototype.apply`
+    - `return`: 🙋 explained
 - Data structures
-  - Array: 🙋 explained
-  - mixin
-  - extend
-  - typed arrays: 👂 heard
-  - Map
-  - Set
-  - undefined: 🙋 explained
-  - null: 🙋 explained
-  - Proxy: 👂 heard
-  - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date: 👂 heard
-  - BigInt: 👂 heard
+    - `Array`: 🙋 explained
+    - `Map`
+    - `Set`
+    - `WeakMap`
+    - `WeakSet`
+    - Typed arrays: 🙋 explained
+    - Mixins
+    - `Object.assign`
+- Standard classes and namespaces
+    - `Proxy`: 👂 heard
+    - `RegExp`
+    - `Date`: 👂 heard
+    - `Math`
+    - `Reflect`
+    - `Error`
+    - `Atomics`
+    - `JSON`
+    - `WeakRef`
+    - `FinalizationRegistry`
+    - `Intl`
+    - `Promise`
+    - `console`
+    - Timers
 - Infrastructure
-  - V8
-  - Node.js: 🙋 explained
-  - npm
-  - prettier
-  - MDN
+    - V8
+    - Node.js: 🙋 explained
+    - npm
+    - prettier
+    - MDN
+    - TC39

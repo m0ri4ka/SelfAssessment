@@ -1,66 +1,91 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 👂 heard
-  - Imperative programming
-  - Structured programming: 👂 heard
-  - Non-structured programming
-  - Functional programming: 👂 heard
-  - Prototype-based programming
-  - Object-oriented programming: 👂 heard
-  - Object-based programming: 👂 heard
-  - Generic programming
-  - Concurrent computing
-  - Asyncronous programming: 👂 heard
-  - Parallel programming: 👂 heard
-  - Reactive programming: 👂 heard
-  - FRP (Functional-reactive)
-  - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
+    - Procedural programming: 👂 heard
+    - Imperative programming
+    - Structured programming: 👂 heard
+    - Non-structured programming
+    - Functional programming: 👂 heard
+    - Prototype-based programming
+    - Object-oriented programming: 👂 heard
+    - Object-based programming: 👂 heard
+    - Generic programming
+    - Concurrent computing
+    - Asynchronous programming: 👂 heard
+    - Parallel programming: 👂 heard
+    - Reactive programming: 👂 heard
+    - Functional-reactive (FRP)
+    - Automata-based programming
+    - Domain-specific languages
+    - Multi-paradigm programming
+    - Metaprogramming
+    - Actor model
+    - Lambda calculus
+    - Black box
+    - Information hiding
+    - Aspect-oriented programming
+    - Anemic domain model
+    - Class composition
 - OOP basics
-  - constructor
-  - new: 👂 heard
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance: 👂 heard
-  - Parent class: 👂 heard
-  - Polymorphism: 👂 heard
-  - Abstract class: 👂 heard
-  - Interface
-  - Encapsulation: 👂 heard
-  - Hidden class: 👂 heard
-  - Object form
-  - instance
-  - Introspection
-  - Reflection
+    - Constructor
+    - Operator `new`: 👂 heard
+    - Static method
+    - Method
+    - Async method
+    - Getters, Setters
+    - Public fields
+    - Private fields
+    - Field declarations
+    - Inheritance: 👂 heard
+    - Parent class: 👂 heard
+    - Polymorphism: 👂 heard
+    - Abstract class: 👂 heard
+    - Interface
+    - Encapsulation: 👂 heard
+    - Hidden class: 👂 heard
+    - Object form
+    - Instance
+    - Introspection
+    - Reflection
+    - The diamond problem
+- GRASP
+    - Information expert
+    - Creator
+    - Controller
+    - Indirection
+    - Low coupling
+    - High cohesion
+    - Protected variations
+    - Pure fabrication
+- SOLID
+    - Single-responsibility principle (SRP)
+    - Open–closed principle (OCP)
+    - Liskov substitution principle (LSP)
+    - Interface segregation principle (ISP)
+    - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy: 👂 heard
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
+    - Singleton
+    - Factory Method
+    - Abstract Factory
+    - Adapter
+    - Observer
+    - Strategy
+    - Facade
+    - Proxy: 👂 heard
+    - Chain of Responsibility
+    - Command
+    - Iterator
+    - State
+    - Bridge
+    - Builder
+    - Prototype
+    - Composite
+    - Decorator
+    - Flyweight
+    - Mediator
+    - Memento
+    - Template Method
+    - Visitor
+    - Reactor
+    - Active object
+    - Delegation
