@@ -1,7 +1,7 @@
 ## JavaScript
 
 - Language
-  - Object: 🎓 known
+  - Object: 🙋 explained
   - this
   - arrow function: 🎓 known
   - async function: 🎓 known
@@ -13,77 +13,77 @@
   - ...rest
   - typeof
   - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
+  - generator: 👂 heard
+  - iterator: 👂 heard
+  - async generator: 👂 heard
+  - async iterator: 👂 heard
+  - chaining: 👂 heard
   - optional chaining
   - IIFE
   - global
   - globalThis
-  - window
+  - window: 👂 heard
   - getters and setters
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void: 🎓 known
+  - equality operators: 🙋 explained
+  - logical operators: 🙋 explained
+  - bitwise operators: 🙋 explained
+  - ternary operator: 👂 heard
+  - void: 🙋 explained
   - yield
-  - await
+  - await: 🙋 explained
   - template literal
   - strict mode
-  - delete
-  - in
+  - delete: 👂 heard
+  - in: 👂 heard
   - super
-  - Symbol
+  - Symbol: 👂 heard
   - Reflect
 - Statements
-  - if: 🎓 known
-  - while: 🎓 known
-  - do..while: 🎓 known
-  - for: 🎓 known
-  - for..in: 🎓 known
-  - for..of
-  - for await
+  - if: 🙋 explained
+  - while: 🙋 explained
+  - do..while: 🙋 explained
+  - for: 🙋 explained
+  - for..in: 🙋 explained
+  - for..of: 👂 heard
+  - for await: 👂 heard
   - throw
-  - break: 🎓 known
-  - continue
-  - import
-  - export
+  - break: 🙋 explained
+  - continue: 👂 heard
+  - import: 👂 heard
+  - export: 👂 heard
   - label
   - try..catch
-  - switch: 🎓 known
-  - class: 🎓 known
+  - switch: 🙋 explained
+  - class: 🙋 explained
   - new Error
   - with
 - Functions
   - function declaration
   - function expression
-  - return: 🎓 known
+  - return: 🙋 explained
   - default parameters
   - functional object
 - Data structures
-  - Array: 🎓 known
+  - Array: 🙋 explained
   - mixin
   - extend
-  - typed arrays
+  - typed arrays: 👂 heard
   - Map
   - Set
-  - undefined: 🎓 known
-  - null: 🎓 known
-  - Proxy
+  - undefined: 🙋 explained
+  - null: 🙋 explained
+  - Proxy: 👂 heard
   - weak collections
   - timers
   - EventEmitter
   - RegExp
-  - Date
-  - BigInt
+  - Date: 👂 heard
+  - BigInt: 👂 heard
 - Infrastructure
   - V8
-  - Node.js: 🎓 known
+  - Node.js: 🙋 explained
   - npm
   - prettier
   - MDN
