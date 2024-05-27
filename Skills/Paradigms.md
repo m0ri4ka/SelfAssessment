@@ -1,53 +1,53 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming h
-  - Imperative programming h
-  - Structured programming h
-  - Non-structured programming h
-  - Functional programming u
-  - Prototype-based programming h
-  - Object-oriented programming k
-  - Object-based programming k
-  - Generic programming h
-  - Concurrent computing h
-  - Asynchronous programming h
-  - Parallel programming h
-  - Reactive programming h
-  - Functional-reactive (FRP) h
-  - Automata-based programming h
-  - Domain-specific languages h
-  - Multi-paradigm programming h
-  - Metaprogramming h
-  - Actor model h
-  - Lambda calculus h
-  - Black box h
-  - Information hiding h
-  - Aspect-oriented programming h
-  - Anemic domain model h
-  - Class composition h
+  - Procedural programming: 👂 heard
+  - Imperative programming: 👂 heard
+  - Structured programming: 👂 heard
+  - Non-structured programming: 👂 heard
+  - Functional programming: 🖐️ used
+  - Prototype-based programming: 👂 heard
+  - Object-oriented programming: 🎓 known
+  - Object-based programming: 🎓 known
+  - Generic programming: 👂 heard
+  - Concurrent computing: 👂 heard
+  - Asynchronous programming: 👂 heard
+  - Parallel programming: 👂 heard
+  - Reactive programming: 👂 heard
+  - Functional-reactive (FRP): 👂 heard
+  - Automata-based programming: 👂 heard
+  - Domain-specific languages: 👂 heard
+  - Multi-paradigm programming: 👂 heard
+  - Metaprogramming: 👂 heard
+  - Actor model: 👂 heard
+  - Lambda calculus: 👂 heard
+  - Black box: 👂 heard
+  - Information hiding: 👂 heard
+  - Aspect-oriented programming: 👂 heard
+  - Anemic domain model: 👂 heard
+  - Class composition: 👂 heard
 - OOP basics
-  - Constructor h
-  - Operator `new` k
-  - Static method h
-  - Method k
-  - Async method k
-  - Getters, Setters h
-  - Public fields h
-  - Private fields h
-  - Field declarations h
-  - Inheritance k
-  - Parent class k
-  - Polymorphism k
-  - Abstract class k
-  - Interface k
-  - Encapsulation k
-  - Hidden class k
-  - Object form k
-  - Instance k
-  - Introspection k
-  - Reflection k
-  - The diamond problem h
+  - Constructor: 👂 heard
+  - Operator `new`: 🎓 known
+  - Static method: 👂 heard
+  - Method: 🎓 known
+  - Async method: 🎓 known
+  - Getters, Setters: 👂 heard
+  - Public fields: 👂 heard
+  - Private fields: 👂 heard
+  - Field declarations: 👂 heard
+  - Inheritance: 🎓 known
+  - Parent class: 🎓 known
+  - Polymorphism: 🎓 known
+  - Abstract class: 🎓 known
+  - Interface: 🎓 known
+  - Encapsulation: 🎓 known
+  - Hidden class: 🎓 known
+  - Object form: 🎓 known
+  - Instance: 🎓 known
+  - Introspection: 🎓 known
+  - Reflection: 🎓 known
+  - The diamond problem: 👂 heard
 - GRASP
   - Information expert
   - Creator
@@ -71,10 +71,10 @@
   - Observer
   - Strategy
   - Facade
-  - Proxy h
-  - Chain of Responsibility h 
-  - Command h
-  - Iterator h
+  - Proxy: 👂 heard
+  - Chain of Responsibility: 👂 heard
+  - Command: 👂 heard
+  - Iterator: 👂 heard
   - State
   - Bridge
   - Builder
