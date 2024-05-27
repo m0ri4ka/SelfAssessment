@@ -1,63 +1,63 @@
 ## JavaScript
 
 - Language
-- `Object`: 🙋 explained
-- `Function`
-- `Boolean`
-- `Number`
-- `BigInt`: 👂 heard
-- `String`
-- `Symbol`: 👂 heard
-- `Infinity`
-- `NaN`
-- `undefined`: 🙋 explained
-- `null`: 🙋 explained
-- `this`
-- `instanceof`
-- `...spread`
-- `...rest`
-- `typeof`
-- Destructuring
-- Generators: 👂 heard
-- Iterators: 👂 heard
-- Async generator: 👂 heard
-- Async iterator: 👂 heard
-- Chaining: 👂 heard
-- Optional chaining
-- IIFE
-- Async IIFE
-- `global`
-- `globalThis`
-- `window`: 👂 heard
-- Getters and setters
-- `__proto__`
-- `prototype`
-- Equality operators: 🙋 explained
-- Logical operators: 🙋 explained
-- Logical Assignment
-- Bitwise operators: 🙋 explained
-- Ternary operator: 👂 heard
-- `void`: 🙋 explained
-- `yield`
-- `await`: 🙋 explained
-- Template literal
-- Strict mode
-- Hoisting
-- `delete`: 👂 heard
-- `in`: 👂 heard
-- `super`
-- `eval`
-- `static`
-- `Number.parseInt`
-- `Number.parseFloat`
-- Property descriptors
-- Sealing properties
-- Freezing properties
-- Computed properties
-- Instance class fields
-- Static class fields
-- Private class fields
-- Private class methods
+    - `Object`: 🙋 explained
+    - `Function`
+    - `Boolean`
+    - `Number`
+    - `BigInt`: 👂 heard
+    - `String`
+    - `Symbol`: 👂 heard
+    - `Infinity`
+    - `NaN`
+    - `undefined`: 🙋 explained
+    - `null`: 🙋 explained
+    - `this`
+    - `instanceof`
+    - `...spread`
+    - `...rest`
+    - `typeof`
+    - Destructuring
+    - Generators: 👂 heard
+    - Iterators: 👂 heard
+    - Async generator: 👂 heard
+    - Async iterator: 👂 heard
+    - Chaining: 👂 heard
+    - Optional chaining
+    - IIFE
+    - Async IIFE
+    - `global`
+    - `globalThis`
+    - `window`: 👂 heard
+    - Getters and setters
+    - `__proto__`
+    - `prototype`
+    - Equality operators: 🙋 explained
+    - Logical operators: 🙋 explained
+    - Logical Assignment
+    - Bitwise operators: 🙋 explained
+    - Ternary operator: 👂 heard
+    - `void`: 🙋 explained
+    - `yield`
+    - `await`: 🙋 explained
+    - Template literal
+    - Strict mode
+    - Hoisting
+    - `delete`: 👂 heard
+    - `in`: 👂 heard
+    - `super`
+    - `eval`
+    - `static`
+    - `Number.parseInt`
+    - `Number.parseFloat`
+    - Property descriptors
+    - Sealing properties
+    - Freezing properties
+    - Computed properties
+    - Instance class fields
+    - Static class fields
+    - Private class fields
+    - Private class methods
 - Statements
     - `if`: 🙋 explained
     - `while`: 🙋 explained
