@@ -1,53 +1,53 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
-  - Reactive programming
-  - Functional-reactive (FRP)
-  - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
-  - Lambda calculus
-  - Black box
-  - Information hiding
-  - Aspect-oriented programming
-  - Anemic domain model
-  - Class composition
+  - Procedural programming h
+  - Imperative programming h
+  - Structured programming h
+  - Non-structured programming h
+  - Functional programming u
+  - Prototype-based programming h
+  - Object-oriented programming k
+  - Object-based programming k
+  - Generic programming h
+  - Concurrent computing h
+  - Asynchronous programming h
+  - Parallel programming h
+  - Reactive programming h
+  - Functional-reactive (FRP) h
+  - Automata-based programming h
+  - Domain-specific languages h
+  - Multi-paradigm programming h
+  - Metaprogramming h
+  - Actor model h
+  - Lambda calculus h
+  - Black box h
+  - Information hiding h
+  - Aspect-oriented programming h
+  - Anemic domain model h
+  - Class composition h
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - Instance
-  - Introspection
-  - Reflection
-  - The diamond problem
+  - Constructor h
+  - Operator `new` k
+  - Static method h
+  - Method k
+  - Async method k
+  - Getters, Setters h
+  - Public fields h
+  - Private fields h
+  - Field declarations h
+  - Inheritance k
+  - Parent class k
+  - Polymorphism k
+  - Abstract class k
+  - Interface k
+  - Encapsulation k
+  - Hidden class k
+  - Object form k
+  - Instance k
+  - Introspection k
+  - Reflection k
+  - The diamond problem h
 - GRASP
   - Information expert
   - Creator
@@ -71,10 +71,10 @@
   - Observer
   - Strategy
   - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
+  - Proxy h
+  - Chain of Responsibility h 
+  - Command h
+  - Iterator h
   - State
   - Bridge
   - Builder
