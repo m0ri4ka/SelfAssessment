@@ -25,12 +25,12 @@
     - Microcode
     - Software engineering t
     - Decomposition: 🙋 explained
-    - Control flow
-    - Data flow
-    - Code reuse
-    - Defensive programming
+    - Control flow k
+    - Data flow k 
+    - Code reuse k
+    - Defensive programming k
     - Don't repeat yourself (DRY) e
-    - KISS principle
+    - KISS principle h
 - Syntax and concepts
     - Value: 🙋 explained
     - Identifier: 🙋 explained
